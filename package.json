@@ -1,0 +1,26 @@
+{
+  "name": "halfdonutchart",
+  "version": "1.0.0",
+  "description": "A React library to display a half donut chart.",
+  "main": "Chart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ella33/react-half-donut-chart.git"
+  },
+  "keywords": [
+    "react",
+    "half-donut",
+    "chart",
+    "svg",
+    "chart"
+  ],
+  "author": "Mihaela Mesarosiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ella33/react-half-donut-chart/issues"
+  },
+  "homepage": "https://github.com/ella33/react-half-donut-chart#readme"
+}
